@@ -28,7 +28,7 @@ Feel free to explore our mods, contribute, or just follow along with our progres
 
 Stay tuned for exciting updates and new releases!
 
-egg
+```
   __                           
  / /____ ___ ___ _                    
 / __/ -_) _ `/  ' \                   
@@ -40,4 +40,4 @@ egg
 /_/          /___/                    
 
         doin what we do best
-egg
+```
